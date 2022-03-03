@@ -1,8 +1,8 @@
 # Alpaca-Image-Generator-App
 
 
-Requirements
-A website to let you customize your own alpaca profile picture (or desired image)
-Customization panel
-Randomize feature
-Download generated image feature
+<h4>Requirements</h4>
+1. A website to let you customize your own alpaca profile picture (or desired image)
+2. Customization panel
+3. Randomize feature
+4. Download generated image feature
